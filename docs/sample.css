@@ -1,0 +1,15 @@
+body {
+    padding: 3em;
+    margin: 1em;
+    color: #888888;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+h1,h2,h3,h4,h5 {
+    border-bottom: 1px solid #ccc;
+}
+
+.hilite {
+    background-color: #ffa;
+}
